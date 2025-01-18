@@ -39,7 +39,6 @@ const menuData = {
     { name: "Vanille", price: 30 },
     { name: "Fraise", price: 30 },
     { name: "Oreo", price: 32 },
-    { name: "Option supplémentaire", price: 35 },
   ],
   Cocktails: [
     { name: "Mojito classique", price: 20 },
